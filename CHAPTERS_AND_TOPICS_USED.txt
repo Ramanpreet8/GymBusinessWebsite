@@ -1,0 +1,211 @@
+OLYMPUS IRON GYM - WEB PROJECT
+Chapter Topics & Implementation Documentation
+
+Project Name: Olympus Iron Gym Website
+Business Type: Fitness Gym
+Location: Manhattan, New York
+Team: Ramanpreet Singh & Arashiki
+Date Completed: May 2026
+
+==============================================
+CHAPTER-BY-CHAPTER TOPICS USED
+==============================================
+
+CHAPTER 1: HTML FUNDAMENTALS
+Topics Used:
+✓ Document Structure (DOCTYPE, html, head, body tags)
+✓ Semantic HTML (header, nav, footer, section, div elements)
+✓ Meta Tags (charset, viewport for responsiveness)
+✓ Internal Linking (href navigation between pages)
+✓ External Links (social media links, email links)
+✓ Anchor Tags with IDs (internal page navigation - #hours, #classes, #about)
+✓ List Elements (ul, ol, li for feature lists)
+✓ Heading Tags (h1, h2, h3, h4 hierarchy)
+✓ Paragraph & Text Elements (p, strong, em)
+
+Implementation Details:
+- All 5 mandatory pages created with proper HTML5 structure
+- Navigation menu on every page linking to all sections
+- Internal links implemented to jump between page sections (e.g., "Quick Navigation")
+- Email links with mailto protocol (info@olympusirongym.com)
+- Phone links with tel protocol ((212) 555-1234)
+- Proper heading hierarchy for accessibility and SEO
+
+Files: index.html, history.html, classes.html, contact.html, social.html
+
+---
+
+CHAPTER 2: INTEGRATING IMAGES
+Topics Used:
+● How to use the <img> tag to place an image within a webpage● What the difference is between absolute and relative image URLs● Why and how to specify alternative text for an image● How to specify an image’s height and width using <img> tag attributes● How to center an image within a webpage● How copyrights affect which images you can and can’t use within a webpage● What you must know about image types and file sizes● How to optimize graphics for Web use● How to display a page background image● How to display an image border, and how to use the border to roundimage corners● How to pad an image with pixels to provide space between the image andother page elements● How to control image opacity● How to align text and images● How to position an image at a fixed location● How to rotate an image
+
+---
+
+CHAPTER 3: USING HYPERLINKS TO CONNECT CONTENT
+Topics Used:
+
+● How to use the <a> and </a> anchor tag pair to create a text-basedhyperlink● How to use the anchor tag target attribute to open a hyperlink in a newwindow● How to use the <a> and </a> anchor tag pair to create an image-basedhyperlink● How to use absolute and relative URLs to create a hyperlink● How to create an in-page hyperlink● How to use the mailto attribute within a hyperlink to open an e-mailclient● How to create an image map
+
+---
+
+CHAPTER 4: PRESENTING LISTS
+Topics Used:
+● How to create an ordered list, which is sometimes called a numbered list● How to create an unordered list, which is sometimes called a bulleted list● How to control the appearance of the unordered list bullet● How to use a graphic for a custom bullet● How to position list content● How to create a definition list consisting of terms and their meanings● How to nest one list within another
+
+---
+
+CHAPTER 5: FORMATTING CONTENT WITH TABLES
+Topics Used:
+● How to use the <table> tag to create a table within a webpage● How to use HTML tags to format content within an HTML table● How to embed images within an HTML table● How to nest one table within another● How to center a table within a page● How to center content within a table cell● How to align contents of a specific row or cell● How to vertically align table row or cell contents● How to control table cell borders● How to control table cell spacing and padding● How to provide a table caption● How to provide a table heading● How to display a table header and footer
+
+---
+
+CHAPTER 6: GETTING USER INPUT WITH FORMS
+Topics Used:
+● How to use the <form> and </form> tag pair to create a simple form● How to direct a form to submit data● How to integrate content within an HTML form● How to prompt a user for a password● How to limit the number of characters that can be entered into a field● How to use the <textarea> and </textarea> tag pair to prompt the userfor large amounts of text within a form● How to use the <input> tag to create radio buttons that simplify selectionwithin a form● How to use the <input> tag to create checkboxes to allow for selectingmultiple options within a form● How to create a pull-down list● How to reset the contents of a form● How to create a custom button
+
+---
+
+CHAPTER 7: ADVANCED CSS & EFFECTS
+Topics Used:
+✓ Box Shadow Effects (cards, footer, header)
+✓ Transform & Scale Effects (social buttons on hover)
+✓ Pseudo-classes (:hover, :active)
+✓ Opacity & Transparency
+✓ Border Styling & Rounded Corners
+✓ CSS Transitions (smooth animations)
+✓ Text Shadow Effects (header styling)
+✓ Gradient Backgrounds (potential enhancement)
+
+Implementation Details:
+- Smooth transitions on all interactive elements
+- Box shadows for depth on containers and cards
+- Scale transforms on hover for social media buttons
+- Rounded corners on buttons and cards
+- Professional shadow effects on images
+- Text shadows for better readability on colored backgrounds
+
+---
+
+CHAPTER 8: ADVANCED CSS
+Topics Used:
+● How to assign formatting styles to a CSS class definition● How to define a style for multiple selectors● How to combine style definitions● How to create a selector-specific class definition that applies only to thespecified tag● How to assign CSS formatting styles to a name (an identifier), which can laterbe assigned to one specific HTML element based on the element’s id attribute● How to apply CSS styles to predefined pseudo classes● How to apply CSS styles to pseudo elements
+
+---
+
+CHAPTER 9: CREATING PAGE DIVISIONS
+Topics Used:
+● How to use tables to format text and images within an HTML page● How to create a page division using the <div> and </div> tag pair● How to use page divisions to create columns● How to use tables to format content● How to create fixed-size content
+
+---
+
+CHAPTER 10: JAVASCRIPT
+Topics Used:
+● How to place JavaScript code within an HTML file by using the <script>and </script> tag pair● How to correct the cause of errors created when a programmer violates thesyntax of JavaScript code● How to use JavaScript operators to perform common arithmetic operations,such as addition, subtraction, multiplication, and division● How JavaScript allows programmers to define and use variables to allowprograms to store information as they execute● How JavaScript’s case sensitivity can lead to errors that are difficult tocorrect● How to comment or document code to explain the processing it performs
+
+==============================================
+WEBSITE PAGES CREATED
+==============================================
+
+1. HOME PAGE (index.html)
+   - Welcome message
+   - About gym information
+   - Features list
+   - Hours of operation table
+   - Responsive design
+
+2. HISTORY PAGE (history.html)
+   - Founding story (2015)
+   - Growth timeline
+   - Milestones table
+   - Current achievements
+   - Leadership team information
+
+3. CLASSES & PRICING PAGE (classes.html)
+   - Class descriptions (8+ classes)
+   - Membership pricing table
+   - Weekly schedule table
+   - Special offers
+   - Class categories (strength, cardio, mind & body)
+
+4. LOCATION & CONTACT PAGE (contact.html)
+   - Physical address
+   - Multiple contact methods (email, phone, text)
+   - Contact response times table
+   - Hours of operation table
+   - Directions from landmarks
+   - Team member contacts
+   - Membership inquiry form
+
+5. SOCIAL MEDIA PAGE (social.html)
+   - Social media platform links (6 platforms)
+   - Follower statistics table
+   - Member comments & reviews (6 fake comments)
+   - Social media content themes
+   - Exclusive offers
+   - Newsletter subscription
+
+==============================================
+TECHNICAL SPECIFICATIONS
+==============================================
+
+File Structure:
+Website/
+├── Webpages/
+│   ├── index.html
+│   ├── history.html
+│   ├── classes.html
+│   ├── contact.html
+│   ├── social.html
+│   └── styles.css
+└── Images/
+    └── [To be filled with downloaded gym photos]
+
+CSS Features:
+- Single stylesheet for all pages (consistency)
+- 450+ lines of professional CSS
+- Mobile responsiveness with media queries
+- Professional color scheme (gold #ffd700 & black #1a1a1a)
+- Flexbox & Grid layouts
+- Hover effects and transitions
+- Semantic HTML with proper styling
+
+HTML Features:
+- 5 complete HTML5 pages
+- Proper heading hierarchy
+- Semantic markup
+- Accessible color contrast
+- Mobile viewport meta tag
+- Internal navigation system
+- Multiple contact methods
+- Professional structure
+
+==============================================
+ADDITIONAL FEATURES IMPLEMENTED
+==============================================
+
+✓ Consistent background color across pages
+✓ Unified navigation on every page
+✓ Professional header with business name
+✓ Footer with copyright and contact info
+✓ Internal page linking with anchor tags
+✓ Clickable email addresses (mailto:)
+✓ Clickable phone numbers (tel:)
+✓ Social media links (external, new tab)
+✓ Professional member testimonials
+✓ Hours of operation table
+✓ Multiple contact methods
+✓ Staff directory with contact info
+✓ Pricing information
+✓ Class schedule
+✓ Responsive design
+✓ Professional business information
+✓ Call-to-action elements
+✓ Visual hierarchy
+✓ Proper spacing and alignment
+✓ Professional color scheme
+
+
+==============================================
+END OF DOCUMENTATION
+==============================================
